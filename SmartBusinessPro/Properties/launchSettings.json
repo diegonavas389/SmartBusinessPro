@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "SmartBusinessPro": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
